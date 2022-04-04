@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is another commit!
+=======
+This is again another commit!
+>>>>>>> feature
 
 And here we ga with commit #2!
